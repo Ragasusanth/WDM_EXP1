@@ -31,7 +31,6 @@ Weather Data
 ---------------
 
 @relation weather
-
 @attribute outlook {sunny,rainy,overcast}
 @attribute temparature numeric
 @attribute humidity numeric
@@ -40,16 +39,17 @@ Weather Data
 @attribute CLIMATE {HOT,MILD,COLD}
 
 @data
-sunny,85.0,85.0,false,no,HOT
-overcast,80.0,90.0,true,no,MILD
-sunny,83.0,86.0,false,yes,HOT
-rainy,70.0,86.0,false,yes,COLD
-rainy,68.0,80.0,false,yes,COLD
-rainy,65.0,70.0,true,no,COLD
-overcast,64.0,65.0,false,yes,MILD
-sunny,72.0,95.0,true,no,HOT
-sunny,69.0,70.0,false,yes,HOT
-rainy,75.0,80.0,false,yes,COLD
+sunny,85.0,85.0,false,no
+overcast,80.0,90.0,true,no
+sunny,83.0,86.0,false,yes
+rainy,70.0,86.0,false,yes
+rainy,68.0,80.0,false,yes
+rainy,65.0,70.0,true,no
+overcast,64.0,65.0,false,yes
+sunny,72.0,95.0,true,no
+sunny,69.0,70.0,false,yes
+rainy,75.0,80.0,false,yes
+
 
 ```
 3) After that the file is saved with .arff file format.
