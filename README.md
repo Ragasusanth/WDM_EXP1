@@ -81,8 +81,8 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 <img width="1920" height="1150" alt="image" src="https://github.com/user-attachments/assets/ed7a9da9-4a08-4b64-918c-c4a35f5aed43" />
 
-<img width="1231" height="741" alt="image" src="https://github.com/user-attachments/assets/7230bcce-7b02-4fad-adf8-4b4f7c2bdd2f" />
 
+<img width="1232" height="740" alt="image" src="https://github.com/user-attachments/assets/dc70c695-7619-48db-8238-9b0f54ca14ad" />
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -102,6 +102,7 @@ rainy,75.0,80.0,false,yes
 <img width="1920" height="1153" alt="image" src="https://github.com/user-attachments/assets/e30eca63-30f0-4391-bcfe-7c8878a7fb66" />
 
 <img width="1235" height="739" alt="image" src="https://github.com/user-attachments/assets/1e15a20d-3927-4713-adb1-5f9d295b8f0e" />
+
 
 
 ### Normalize -> Pre-Processing Technique:
